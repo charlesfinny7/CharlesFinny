@@ -5,3 +5,5 @@ checkout process. This involves designing the e-commerce platform, implementing
 necessary features, and ensuring a seamless user experience.
 Phase 3 consist of code of content of the e-commerce application.
 phase 4 contains the code for other details like cart,placing order,slider,search bar.
+Given codes are html code.
+execute the html code by using the extenstion .html
