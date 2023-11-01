@@ -3,3 +3,5 @@ is to connect skilled artisans with a global audience, showcasing their handmade
 and providing features like secure shopping carts, payment gateways, and an intuitive
 checkout process. This involves designing the e-commerce platform, implementing
 necessary features, and ensuring a seamless user experience.
+Phase 3 consist of code of content of the e-commerce application.
+phase 4 contains the code for other details like cart,placing order,slider,search bar.
